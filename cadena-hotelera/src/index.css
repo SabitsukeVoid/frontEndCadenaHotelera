@@ -1,0 +1,17 @@
+.banner{
+  padding: 25%;
+}
+body{
+  background-image: url('./assets/BannerHotel.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+body::-webkit-scrollbar{
+  display: none;
+}
+  
+html {
+  scroll-behavior: smooth;
+}
+
